@@ -1,0 +1,38 @@
+MPJ Express (0.44) is started in the multicore configuration
+Hostname: spartan-bm019.hpc.unimelb.edu.au
+Hostname: spartan-bm019.hpc.unimelb.edu.au
+Hostname: spartan-bm019.hpc.unimelb.edu.au
+Hostname: spartan-bm019.hpc.unimelb.edu.au
+-----Grid Ordering-----
+C2: 175362
+B2: 22817
+C3: 17180
+B3: 5708
+C4: 4081
+B1: 3312
+C5: 2615
+D3: 2336
+D4: 1906
+C1: 1596
+B4: 951
+D5: 717
+A3: 497
+A2: 479
+A1: 262
+A4: 103
+-----Row Ordering-----
+C-Row: 200834
+B-Row: 32788
+D-Row: 4959
+A-Row: 1341
+-----Column Ordering-----
+Column 2: 198658
+Column 3: 25721
+Column 4: 7041
+Column 1: 5170
+Column 5: 3332
+Time usage = 63.0 s
+Hostname: spartan-bm019.hpc.unimelb.edu.au
+Hostname: spartan-bm019.hpc.unimelb.edu.au
+Hostname: spartan-bm019.hpc.unimelb.edu.au
+Hostname: spartan-bm019.hpc.unimelb.edu.au
